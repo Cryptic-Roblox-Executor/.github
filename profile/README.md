@@ -1,4 +1,4 @@
-# Cryptic Roblox Executor | Ultimate Free Scripting Power 🚀**  
+# Cryptic Roblox Executor | Ultimate Free Scripting Power 🚀
 ---
 
 #### **🚀 What is Cryptic Executor?**  

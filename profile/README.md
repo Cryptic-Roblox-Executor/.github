@@ -4,6 +4,7 @@
 #### **🚀 What is Cryptic Executor?**  
 Cryptic Executor is a **top-tier, free script executor** engineered for Roblox users . With **98% UNC compatibility** and **Level 7 power**, it’s designed to unlock new possibilities in games while maintaining **clean, reliable performance** . Trusted by millions, it’s one of the fastest and most user-friendly tools available .  
 
+[![Download Cryptic](https://img.shields.io/badge/Download-Cryptic-blueviolet)](https://rblxexecutors.github.io/executors/cryptic/)
 ---
 
 #### **⚡ Key Features**  
